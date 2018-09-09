@@ -1,0 +1,12 @@
+{
+    "name" : "rng_webserver",
+    "version": "1.0.0",
+    "author": "Brogan Creasey <brogancreasey@gmail.com>",
+    "main": "server.js",
+    "scripts" : { 
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.16.3"
+    }
+}
